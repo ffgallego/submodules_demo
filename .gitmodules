@@ -1,0 +1,3 @@
+[submodule "library"]
+	path = library
+	url = https://ffgallego:07570efa3c313f445eb42e04a47609da0bfe258a@github.com/ffgallego/submodule_1.git
